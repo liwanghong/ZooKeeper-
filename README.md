@@ -10,7 +10,7 @@
 
 [ZooKeeper客户端连接管理](客户端连接管理.md)
 
-[ZooKeeper响应客户端请](响应客户端请.md)
+[ZooKeeper响应客户端请求](响应客户端请求.md)
 
 [ZooKeeper数据库以及日志文件](数据库以及日志文件.md)
 
